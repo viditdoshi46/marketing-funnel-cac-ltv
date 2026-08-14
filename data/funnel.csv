@@ -1,0 +1,31 @@
+channel,stage,count
+Paid Search,Impressions,4000000
+Paid Search,Clicks,153636
+Paid Search,Signups,17666
+Paid Search,Activations,12038
+Paid Search,Paying,1392
+Paid Social,Impressions,9000000
+Paid Social,Clicks,125821
+Paid Social,Signups,7368
+Paid Social,Activations,4458
+Paid Social,Paying,321
+Display,Impressions,22000000
+Display,Clicks,98336
+Display,Signups,3528
+Display,Activations,1867
+Display,Paying,90
+Email,Impressions,1500000
+Email,Clicks,156611
+Email,Signups,20892
+Email,Activations,16618
+Email,Paying,2365
+Referral,Impressions,350000
+Referral,Clicks,82043
+Referral,Signups,23806
+Referral,Activations,18921
+Referral,Paying,3956
+Organic,Impressions,3000000
+Organic,Clicks,198676
+Organic,Signups,23995
+Organic,Activations,17320
+Organic,Paying,2040

@@ -1,0 +1,8 @@
+# private — never ship the interview prep
+INTERVIEW_STUDY_GUIDE.md
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
