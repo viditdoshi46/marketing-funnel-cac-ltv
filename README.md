@@ -13,12 +13,10 @@
 
 ## What the app does
 
-An interactive Streamlit app with four views:
+A Streamlit **BI control panel** — a sidebar cockpit driving a reactive grid of scorecard panels (no tabs):
 
-1. **Unit economics** — CAC, LTV, LTV:CAC, and payback for every channel, health-flagged against the 3:1 rule.
-2. **Funnel** — the impression → click → signup → activation → paying funnel, overall and per channel, with stage-conversion rates.
-3. **CAC vs LTV** — a scatter with the break-even (1:1) and target (3:1) lines, plus payback bars against a 12-month target.
-4. **Budget planner** — sliders to reallocate spend under a diminishing-returns model, with the projected change in customers, blended CAC, and value, and a methodology explainer.
+- **Sidebar controls:** a channel filter and a live **budget-reallocation planner** (per-channel spend sliders with diminishing returns).
+- **Scorecard grid:** KPI cards (blended CAC and LTV:CAC), **LTV:CAC by channel**, a **CAC-vs-LTV value map** with break-even and 3:1 lines, the acquisition **funnel**, **payback** bars, a **projected-impact** panel, and a channel scorecard table — all reacting to the sidebar.
 
 ▶ **Live app:** _deploy to Streamlit Community Cloud and drop the link here._
 
