@@ -1,3 +1,15 @@
+<p align="center"><img src="assets/banner.svg" alt="Funnel, CAC and LTV" width="100%"></p>
+
+<p align="center">
+  <a href="https://marketing-funnel-cac-ltv-viditdoshi46.streamlit.app"><img src="https://img.shields.io/badge/Live%20app-open-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live app"></a>
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+<p align="center"><b><a href="https://marketing-funnel-cac-ltv-viditdoshi46.streamlit.app">Live app</a></b> &nbsp;·&nbsp; <a href="#">Back to top</a></p>
+
+---
+
 # Growth Analytics — Acquisition Funnel & CAC:LTV
 
 **Business question:** A growth team spends ~$580k across six marketing channels. **Where should the next dollar go?** The answer isn't "spend more" — it's knowing each channel's unit economics and moving budget to where it pays back.
